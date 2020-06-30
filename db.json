@@ -1,54 +1,53 @@
 {
-    "event":{
-        "name": "Event 1",
-        "title": "Title 1",
-        "student_lists": [
-            {
-                "type": "Type 1",
-                "list": [
-                    {
-                        "name": "Ram",
-                        "position": "1"
-                    },
-                    {
-                        "name": "Bharat",
-                        "position": "2"
-                    },
-                    {
-                        "name": "Lakshman",
-                        "position": "3"
-                    },
-                    {
-                        "name": "Shatrughna",
-                        "position": "4"
-                    }
-                ]
-            },
-            {
-                "type": "Type 2",
-                "list": [
-                    {
-                        "name": "Yudhisthir",
-                        "score": "60"
-                    },
-                    {
-                        "name": "Bhim",
-                        "time": "100"
-                    },
-                    {
-                        "name": "Arjun",
-                        "time": "80"
-                    },
-                    {
-                        "name": "Nakul",
-                        "score": "40"
-                    },
-                    {
-                        "name": "Sahdev",
-                        "score": "20"
-                    }
-                ]
-            }
-        ]
-    }
+    "name": "Event 1",
+    "title": "Title 1",
+    "student_lists": [
+        {
+            "type": "Type 1",
+            "list": [
+                {
+                    "name": "Ram",
+                    "position": "1"
+                },
+                {
+                    "name": "Bharat",
+                    "position": "2"
+                },
+                {
+                    "name": "Lakshman",
+                    "position": "3"
+                },
+                {
+                    "name": "Shatrughna",
+                    "position": "4"
+                }
+            ]
+        },
+        {
+            "type": "Type 2",
+            "list": [
+                {
+                    "name": "Yudhisthir",
+                    "score": "60"
+                },
+                {
+                    "name": "Bhim",
+                    "time": "100"
+                },
+                {
+                    "name": "Arjun",
+                    "time": "80"
+                },
+                {
+                    "name": "Nakul",
+                    "score": "40"
+                },
+                {
+                    "name": "Sahdev",
+                    "score": "20"
+                }
+            ]
+        }
+    ]
 }
+
